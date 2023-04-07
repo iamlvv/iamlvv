@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/levanvy02">
+  <a href="https://www.linkedin.com/in/levanvy02">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/vy.levan.18">
@@ -28,7 +28,6 @@ I am a 3rd year student at Ho Chi Minh University of Technology (HCMUT), and my 
 - 🔭 I’m currently learning and contributing to both frontend and backend for building web applications. Some of my projects repository are below.
 - 🤔 I’m looking for Web Developer or Mobile Developer work with Internship position.
 - 🧱 I have foundational knowledge of Data Structure and Algorithms, Computer Network, Mathematics Modelling, Discrete Structure, Linear Algebra, Probability and Statistics, and Calculus.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iamlvv-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/levanvy02)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -45,7 +44,7 @@ I am a 3rd year student at Ho Chi Minh University of Technology (HCMUT), and my 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### 😐: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamlvv)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlvv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
