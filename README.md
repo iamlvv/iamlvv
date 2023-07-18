@@ -45,6 +45,8 @@ I am a 3rd year student at Ho Chi Minh University of Technology (HCMUT), and my 
 </div>
 
 ### 😐: My Stats :
+![](https://komarev.com/ghpvc/?username=iamlvv&color=brightgreen)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamlvv)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlvv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
