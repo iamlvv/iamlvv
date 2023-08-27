@@ -5,12 +5,6 @@
   <a href="https://www.linkedin.com/in/levanvy02">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/vy.levan.18">
-    <img src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/iamlvv/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <h1>
   Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -24,9 +18,9 @@
 
 
 ### 💁 About me:
-I am a 3rd year student at Ho Chi Minh University of Technology (HCMUT), and my major is Computer Science. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I’m currently learning and contributing to both frontend and backend for building web applications. Some of my projects repository are below.
-- 🤔 I’m looking for Web Developer or Mobile Developer work with Internship position.
+I am a 4rd year student at Ho Chi Minh University of Technology (HCMUT), and my major is Computer Science. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently learning and contributing to both frontend and backend for building web and mobile applications. Some of my projects repository are below.
+- 🤔 I’m looking for Web Developer or Mobile Developer work with Fresher position.
 - 🧱 I have foundational knowledge of Data Structure and Algorithms, Computer Network, Mathematics Modelling, Discrete Structure, Linear Algebra, Probability and Statistics, and Calculus.
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -50,6 +44,9 @@ I am a 3rd year student at Ho Chi Minh University of Technology (HCMUT), and my 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamlvv)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlvv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlvv&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **iamlvv/iamlvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
