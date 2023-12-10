@@ -11,9 +11,9 @@
 </div>
 <!-- <div><img src="https://komarev.com/ghpvc/?username=iamlvv&style=flat-square&color=blue" alt=""/> -->
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="600" height=""/>
-</div>
+</div> -->
  
 
 
@@ -27,7 +27,7 @@ I am a 4rd year student at Ho Chi Minh University of Technology (HCMUT), and my 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 	  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -35,7 +35,6 @@ I am a 4rd year student at Ho Chi Minh University of Technology (HCMUT), and my 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title = "TailwindCSS" alt="TailwindCSS" width="40" height = "40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
 ### 😐: My Stats :
