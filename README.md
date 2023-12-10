@@ -20,7 +20,7 @@
 ### 💁 About me:
 I am a 4rd year student at Ho Chi Minh University of Technology (HCMUT), and my major is Computer Science. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I’m currently learning and contributing to both frontend and backend for building web and mobile applications. Some of my projects repository are below.
-- 🤔 I’m looking for Web Developer or Mobile Developer work with Fresher position.
+- 🤔 I want to apply for a Software Engineer position as a fresher.
 - 🧱 I have foundational knowledge of Data Structure and Algorithms, Computer Network, Mathematics Modelling, Discrete Structure, Linear Algebra, Probability and Statistics, and Calculus.
 
 ### :hammer_and_wrench: Languages and Tools :
