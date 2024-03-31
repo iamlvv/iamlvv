@@ -37,7 +37,7 @@ I am a 4rd year student at Ho Chi Minh University of Technology (HCMUT), and my 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title = "TailwindCSS" alt="TailwindCSS" width="40" height = "40"/>&nbsp;
 </div>
 
-### 😐: My Stats :
+### 😐 My Stats :
 ![](https://komarev.com/ghpvc/?username=iamlvv&color=brightgreen)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamlvv)](https://git.io/streak-stats)
